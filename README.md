@@ -17,3 +17,7 @@ git add <filename> --> Adds specific file
 ## Commiting Files
 
 git commit -m "Message" -m "Some Description" (-m for message and need to have a message to commit and second one for description box)
+
+## Pushing files into Remote repository
+
+git push

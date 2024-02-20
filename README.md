@@ -8,6 +8,12 @@ Learning Git might be helpful for a long time up ahead!!!
 
 Cool!! Didnt know u can create header levels with '#'
 
+## Cloning git repo to local machine
+git clone <url/ssh code>
+
+## List everything in the directory
+use 'ls' or 'ls -la'
+
 ## Adding Files to Git (Letting git know to track the files)
 
 git status --> Checks on status of untracked or modified files
